@@ -1,0 +1,18 @@
+asdasssssssssssssssssssssssssssss1
+  Star 0
+  Fork 0 LeiTao1324/wwww
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Pulse  Graphs  Settings
+No description, website, or topics provided.
+ Edit
+Add topics
+ 3 commits
+ 2 branches
+ 0 releases
+ 1 contributor
+Clone or download  Create new file Upload files Find file Branch: master New pull request
+Latest commit a74e577  33 minutes ago @LeiTao1324 LeiTao1324 committed on GitHub Delete aaa.txt
+RecyclerBanner	aaaa	an hour ago
+ddd.txt	添加新文件	2 hours ago
+Add a README Help people interested in this repository understand your project by adding a README.
+Contact GitHub API Training Shop Blog About
+? 2017 GitHub, Inc. Terms Privacy Security Status Help
